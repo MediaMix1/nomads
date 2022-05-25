@@ -163,7 +163,7 @@ UnitBlueprint {
         Icon = 'amph',
         SelectionPriority = 5,
         TechLevel = 'RULEUTL_Basic',
-        UnitName = '<LOC XNB1102_name>Hydrocarbon Power Plant',
+        UnitName = '<LOC xnb1102_name>Old Reliable',
         UnitWeight = 1,
     },
     Interface = {
