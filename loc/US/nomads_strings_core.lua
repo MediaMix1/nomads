@@ -389,7 +389,7 @@ xnb1101_name = "Power Generator"
 -- hydrocarbon power plant
 XNB1102_desc = "Hydrocarbon Power Plant"
 XNB1102_help = "Generates Energy. Must be constructed on hydrocarbon deposits. Construct structures next to Hydrocarbon power plant for adjacency bonus."
-XNB1102_name = "Hydrocarbon Power Plant"
+XNB1102_name = "Old Reliable"
 
 -- t1 mass extractor
 xnb1103_desc = "Mass Extractor"
